@@ -1,4 +1,4 @@
-# OpenAI-Transpiler
+# OpenAI-BasicCodeReviewer
 Translate code from one language to another using OpenAI's GPT AI. Accepts user input or can read from a file as source input.
 
 ## Setup
